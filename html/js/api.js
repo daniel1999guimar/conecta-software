@@ -30,7 +30,6 @@ window.fbAsyncInit = function () {
             else {
                 imagenUrl = response.data[0].images[5].source;
                 perfilId.src = imagenUrl;
-                logo.src = imagenUrl;
             }
 
         }
