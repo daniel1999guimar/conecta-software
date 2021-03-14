@@ -1,1 +1,1 @@
-# ample-admin-lite
+# Proyecto Conecta Software
